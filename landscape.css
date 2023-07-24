@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+main{
+    max-width: 800px;
+}
+.img1{
+    padding: 200px;
+    background-position: center center;
+}
+.img2{
+    padding: 200px;
+    background-position: center center;
+}
+.img3{
+    padding: 200px;
+    background-position: center center;
+}
